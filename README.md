@@ -68,3 +68,9 @@ The goal is to understand price behavior, detect spikes, and build predictive mo
 ---
 
 ## Project Structure
+
+germany-power-market-analysis/
+│
+├── germany_power_market_analysis.ipynb
+├── README.md
+
